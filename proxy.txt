@@ -1,1 +1,5 @@
-
+com.android.chrome
+com.google.android.googlequicksearchbox
+com.google.android.apps.photos
+com.google.android.youtube
+com.google.android.gm
