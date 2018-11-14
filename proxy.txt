@@ -2,6 +2,7 @@ com.android.chrome
 com.google.android.googlequicksearchbox
 com.google.android.apps.photos
 com.google.android.youtube
+com.google.android.apps.inbox
 com.google.android.gm
 com.google.android.apps.plus
 com.android.vending
