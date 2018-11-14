@@ -164,7 +164,6 @@ org.wikipedia
 com.ninegag.android.app
 com.duolingo
 com.patreon.android
-com.google.*
 com.valvesoftware.android.steam.communimunity
 co.wanqu.android
 jp.bokete.app.android
