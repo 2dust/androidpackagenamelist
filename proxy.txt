@@ -25,7 +25,8 @@ com.twitter.android
 com.xda.labs
 com.kapp.youtube.final
 com.google.android.ims
-com.wire mark.via.gp
+com.wire 
+mark.via.gp
 com.downloader.video.tumblr
 com.sololearn
 com.cygames.shadowverse
