@@ -195,3 +195,9 @@ com.shanga.walli
 com.whatsapp
 com.wire
 com.simplehabit.simplehabitapp
+com.google.android.street
+com.flyersoft.moonreaderp
+io.github.skyhacker2.magnetsearch
+com.authy.authy
+com.ninefolders.hd3
+com.tripadvisor.tripadvisor
