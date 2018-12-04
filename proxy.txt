@@ -201,3 +201,4 @@ io.github.skyhacker2.magnetsearch
 com.authy.authy
 com.ninefolders.hd3
 com.tripadvisor.tripadvisor
+com.brave.browser
