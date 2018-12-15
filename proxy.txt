@@ -202,3 +202,9 @@ com.authy.authy
 com.ninefolders.hd3
 com.tripadvisor.tripadvisor
 com.brave.browser
+com.snaptube.premium
+com.android6park.m6park
+com.cl.newt66y
+org.telegram.multi
+com.apkupdater
+com.android.settings
