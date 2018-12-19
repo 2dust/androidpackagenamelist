@@ -208,3 +208,5 @@ com.cl.newt66y
 org.telegram.multi
 com.apkupdater
 com.android.settings
+com.bvanced.android.youtube
+it.mvilla.android.fenix2
