@@ -211,3 +211,6 @@ com.android.settings
 com.bvanced.android.youtube
 it.mvilla.android.fenix2
 fm.moon.app
+com.facebook.orca
+com.facebook.mlite
+com.facebook.lite
