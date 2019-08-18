@@ -220,3 +220,6 @@ com.popularapp.periodcalendar
 com.klinker.android.twitter_l
 luo.speedometergpspro
 de.apkgrabber
+com.xvideos.app
+com.linecorp.linelite
+jp.naver.line.android
