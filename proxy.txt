@@ -224,3 +224,5 @@ pl.zdunex25.updater
 tv.twitch.android.app
 tw.com.gamer.android.activecenter
 videodownloader.downloadvideo.downloader
+uk.co.bbc.learningenglish
+com.ted.android
