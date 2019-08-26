@@ -10,9 +10,9 @@ com.google.android.inputmethod.latin
 com.google.android.apps.paidtasks
 com.google.android.keep
 com.google.android.gms.setup
-com. google.android. apps.magazines
+com.google.android.apps.magazines
 com.google.android.videos
-com. google.android.gms
+com.google.android.gms
 com.google.android.apps.books
 com.google.android.music
 com.google.android.play.games
@@ -26,7 +26,7 @@ com.twitter.android
 com.xda.labs
 com.kapp.youtube.final
 com.google.android.ims
-com.wire 
+com.wire
 mark.via.gp
 com.downloader.video.tumblr
 com.sololearn
@@ -48,8 +48,8 @@ com.fireproofstudios.theroom4
 com.netflix.mediaclient
 com.instagram.android
 com.google.android.apps.hangoutsdialer
-com.google.android.talk 
-com.google.android.apps.plus 
+com.google.android.talk
+com.google.android.apps.plus
 com.google.android.apps.pdfviewer
 com.google.android.apps.magazines
 com.google.android.apps.nbu.files
@@ -223,3 +223,4 @@ de.apkgrabber
 com.xvideos.app
 com.linecorp.linelite
 jp.naver.line.android
+
