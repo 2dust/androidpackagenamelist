@@ -25,7 +25,6 @@ com.ballistiq.artstation
 com.binance.dev
 com.bitly.app
 com.brave.browser
-com.brave.browser
 com.breel.wallpapers18
 com.bvanced.android.youtube
 com.chrome.canary
@@ -70,17 +69,14 @@ com.google.android.apps.googlevoice
 com.google.android.apps.hangoutsdialer
 com.google.android.apps.inbox
 com.google.android.apps.magazines
-com.google.android.apps.magazines
 com.google.android.apps.maps
 com.google.android.apps.nbu.files
 com.google.android.apps.paidtasks
 com.google.android.apps.pdfviewer
 com.google.android.apps.photos
 com.google.android.apps.plus
-com.google.android.apps.plus
 com.google.android.apps.translate
 com.google.android.gm
-com.google.android.gms
 com.google.android.gms
 com.google.android.gms.setup
 com.google.android.googlequicksearchbox
@@ -176,7 +172,6 @@ com.vanced.android.youtube
 com.vimeo.android.videoapp
 com.vkontakte.android
 com.whatsapp
-com.wire
 com.wire
 com.wuxiangai.refactor
 com.xda.labs
