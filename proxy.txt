@@ -6,6 +6,7 @@ be.mygod.vpnhotspot
 ch.protonmail.android
 co.wanqu.android
 com.alphainventor.filemanager
+com.amazon.kindle
 com.amazon.mshop.android.shopping
 com.android.chrome
 com.android.providers.downloads
@@ -25,8 +26,10 @@ com.ballistiq.artstation
 com.binance.dev
 com.bitly.app
 com.brave.browser
+com.brave.browser_beta
 com.breel.wallpapers18
 com.bvanced.android.youtube
+com.chrome.beta
 com.chrome.canary
 com.chrome.dev
 com.cl.newt66y
@@ -39,6 +42,8 @@ com.downloader.video.tumblr
 com.driverbrowser
 com.dropbox.android
 com.duolingo
+com.duckduckgo.mobile.android
+com.dv.adm
 com.estrongs.android.pop
 com.estrongs.android.pop.pro
 com.evernote
@@ -112,6 +117,7 @@ com.linecorp.linelite
 com.lingodeer
 com.mediapods.tumbpods
 com.mgoogle.android.gms
+com.microsoft.emmx
 com.microsoft.office.powerpoint
 com.microsoft.skydrive
 com.mixplorer
@@ -145,6 +151,8 @@ com.reddit.frontpage
 com.resilio.sync
 com.rhmsoft.edit
 com.rubenmayayo.reddit
+com.sec.android.app.sbrowser
+com.sec.android.app.sbrowser.beta
 com.shanga.walli
 com.simplehabit.simplehabitapp
 com.slack
@@ -170,6 +178,8 @@ com.valvesoftware.android.steam.communimunity
 com.valvesoftware.android.steam.community
 com.vanced.android.youtube
 com.vimeo.android.videoapp
+com.vivaldi.browser
+com.vivaldi.browser.snapshot
 com.vkontakte.android
 com.whatsapp
 com.wire
@@ -177,6 +187,8 @@ com.wuxiangai.refactor
 com.xda.labs
 com.xvideos.app
 com.yandex.browser
+com.yandex.browser.beta
+com.yandex.browser.alpha
 com.z28j.feel
 con.medium.reader
 de.apkgrabber
@@ -188,6 +200,8 @@ flipboard.app
 fm.moon.app
 fr.gouv.etalab.mastodon
 github.tornaco.xposedmoduletest
+idm.internet.download.manager
+idm.internet.download.manager.plus
 io.github.javiewer
 io.github.skyhacker2.magnetsearch
 io.va.exposed
@@ -202,9 +216,13 @@ net.teeha.android.url_shortener
 net.tsapps.appsales
 onion.fire
 org.fdroid.fdroid
+org.freedownloadmanager.fdm
 org.kustom.widget
 org.mozilla.fennec_aurora
+org.mozilla.fenix
+org.mozilla.fenix.nightly
 org.mozilla.firefox
+org.mozilla.firefox_beta
 org.mozilla.focus
 org.schabi.newpipe
 org.telegram.messenger
