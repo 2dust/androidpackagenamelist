@@ -239,3 +239,4 @@ tw.com.gamer.android.activecenter
 videodownloader.downloadvideo.downloader
 uk.co.bbc.learningenglish
 com.ted.android
+de.danoeh.antennapod
