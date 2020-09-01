@@ -240,3 +240,6 @@ videodownloader.downloadvideo.downloader
 uk.co.bbc.learningenglish
 com.ted.android
 de.danoeh.antennapod
+com.kiwibrowser.browser
+nekox.messenger
+com.nextcloud.client
