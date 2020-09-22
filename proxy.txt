@@ -243,3 +243,4 @@ de.danoeh.antennapod
 com.kiwibrowser.browser
 nekox.messenger
 com.nextcloud.client
+com.vanced.manager
