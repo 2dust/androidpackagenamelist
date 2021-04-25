@@ -176,7 +176,10 @@ com.ubisoft.dance.justdance2015companion
 com.utopia.pxview
 com.valvesoftware.android.steam.communimunity
 com.valvesoftware.android.steam.community
+com.vanced.manager
 com.vanced.android.youtube
+com.vanced.android.apps.youtube.music
+com.mgoogle.android.gms
 com.vimeo.android.videoapp
 com.vivaldi.browser
 com.vivaldi.browser.snapshot
@@ -243,4 +246,3 @@ de.danoeh.antennapod
 com.kiwibrowser.browser
 nekox.messenger
 com.nextcloud.client
-com.vanced.manager
