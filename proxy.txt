@@ -34,6 +34,7 @@ com.chrome.canary
 com.chrome.dev
 com.cl.newt66y
 com.cradle.iitc_mobile
+org.exarhteam.iitc_mobile
 com.cygames.shadowverse
 com.devhd.feedly
 com.devolver.reigns2
