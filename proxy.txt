@@ -116,6 +116,7 @@ com.klinker.android.twitter_l
 com.lastpass.lpandroid
 com.linecorp.linelite
 com.lingodeer
+com.ltnnews.news
 com.mediapods.tumbpods
 com.mgoogle.android.gms
 com.microsoft.emmx
@@ -174,6 +175,7 @@ com.twitter.android
 com.u91porn
 com.u9porn
 com.ubisoft.dance.justdance2015companion
+com.udn.news
 com.utopia.pxview
 com.valvesoftware.android.steam.communimunity
 com.valvesoftware.android.steam.community
@@ -190,6 +192,7 @@ com.wire
 com.wuxiangai.refactor
 com.xda.labs
 com.xvideos.app
+com.yahoo.mobile.client.android.superapp
 com.yandex.browser
 com.yandex.browser.beta
 com.yandex.browser.alpha
@@ -214,6 +217,7 @@ jp.bokete.app.android
 jp.naver.line.android
 jp.pxv.android
 luo.speedometergpspro
+m.cna.com.tw.App
 mark.via.gp
 me.tshine.easymark
 net.teeha.android.url_shortener
