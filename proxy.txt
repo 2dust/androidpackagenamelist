@@ -4,6 +4,7 @@ au.com.shiftyjelly.pocketcasts
 bbc.mobile.news.ww
 be.mygod.vpnhotspot
 ch.protonmail.android
+cm.aptoide.pt
 co.wanqu.android
 com.alphainventor.filemanager
 com.amazon.kindle
