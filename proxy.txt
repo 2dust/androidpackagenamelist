@@ -162,6 +162,7 @@ com.slack
 com.snaptube.premium
 com.sololearn
 com.sonelli.juicessh
+com.sparkslab.dcardreader
 com.spotify.music
 com.tencent.huatuo
 com.termux
