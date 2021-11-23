@@ -110,6 +110,7 @@ com.ifttt.ifttt
 com.imgur.mobile
 com.innologica.inoreader
 com.instagram.android
+com.instagram.lite
 com.instapaper.android
 com.jarvanh.vpntether
 com.kapp.youtube.final
