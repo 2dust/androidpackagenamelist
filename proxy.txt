@@ -200,6 +200,7 @@ com.yandex.browser
 com.yandex.browser.beta
 com.yandex.browser.alpha
 com.z28j.feel
+com.zhiliaoapp.musically
 con.medium.reader
 de.apkgrabber
 de.robv.android.xposed.installer
