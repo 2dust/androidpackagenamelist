@@ -367,3 +367,4 @@ mnn.Android
 com.thomsonretuers.reuters
 com.guardian
 com.ttxapps.onesyncv2
+org.fcitx.fcitx5.android.updater
