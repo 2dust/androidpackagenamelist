@@ -368,3 +368,10 @@ com.thomsonretuers.reuters
 com.guardian
 com.ttxapps.onesyncv2
 org.fcitx.fcitx5.android.updater
+com.tailscale.ipn
+com.offsec.nethunter
+me.ghui.v2er
+com.samruston.twitter
+org.adaway
+org.swiftapps.swiftbackup
+com.zerotier.one
