@@ -398,3 +398,9 @@ com.qingsong.yingmi
 com.lemurbrowser.exts
 com.silverdev.dnartdroid
 me.ash.reader
+de.tutao.tutanota
+dev.imranr.obtainium
+com.getsomeheadspace.android
+org.cromite.cromite
+com.nutomic.syncthingandroid
+com.bumble.app
