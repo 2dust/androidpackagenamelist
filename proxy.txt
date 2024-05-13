@@ -405,3 +405,9 @@ com.getsomeheadspace.android
 org.cromite.cromite
 com.nutomic.syncthingandroid
 com.bumble.app
+com.cnn.mobile.android.phone
+com.google.android.apps.authenticator2
+com.microsoft.copilot
+com.netflix.NGP.Storyteller
+com.Slack
+com.server.auditor.ssh.client
